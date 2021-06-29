@@ -25,5 +25,5 @@ USER  1001
 
 # Run the fat JAR
 CMD   /opt/app-root/bin/run-app.sh
-# command line options to pass to the JVM
+# command line options to pass to the  JVM
 
